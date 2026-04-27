@@ -1,10 +1,10 @@
 # aws_lambda_transcribe_audio
 
 ### Steps:
-Create IAM :
-Create an IAM Role
-In the search bar, enter "IAM".
-Select IAM from the search results.
+1. Create IAM :
+2. Create an IAM Role
+  -   In the search bar, enter "IAM".
+ -   Select IAM from the search results.
 In the lefthand menu, click Roles.
 Click Create role.
 Under Choose a use case, select Lambda.
